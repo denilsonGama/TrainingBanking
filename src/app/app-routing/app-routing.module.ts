@@ -7,7 +7,7 @@ import { CadastroClientesComponent } from './../cadastro-clientes/cadastro-clien
 const routes: Routes = [
   { path: '', component: ContentComponent },
   { path: 'cadastro-clientes', component: CadastroClientesComponent }
-  ];
+];
 
 @NgModule({
   imports: [
